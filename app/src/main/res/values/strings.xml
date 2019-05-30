@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestLightIT</string>
+    <string name="fragment">It\'s a Fragment!</string>
+    <string name="activity">It\'s an Activity!</string>
+</resources>
